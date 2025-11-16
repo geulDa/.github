@@ -3,7 +3,7 @@
 <img width="4068" height="1697" alt="image" src="https://github.com/user-attachments/assets/e32f0223-da7a-475d-99bb-f77fe5a64405" />
 
 ## 팀원
-| 파트      | PM                                      | Design         | ✧FE                                      | FE                                      | FE                                      |✧ BE                                      | BE                                      |
+| 파트      | PM                                      | Design         | ✧ FE                                      | FE                                      | FE                                      |✧ BE                                      | BE                                      |
 | --------- | --------------------------------------- | -------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | **이름**  | [박규민](https://github.com/FrontHeadlock)                                       | 추가을         | [이수민](https://github.com/KongMezu)   | [김정민](https://github.com/jjangminii)                                 | [고민균](https://github.com/skyblue1232)                                   | [박규민](https://github.com/FrontHeadlock)                                   | [이동준](https://github.com/dongjune8931)                                   | [최민수](https://github.com/Neo1228)                                   |
 
