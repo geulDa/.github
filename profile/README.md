@@ -1,5 +1,6 @@
 # 글다(geulDa)
-> [**글다 이용하기**](https://www.geulda.kr/)
+> [**글다 이용하기**](https://www.geulda.kr/) | [FE Repositories](https://github.com/geulDa/FE) | [BE Repositories](https://github.com/geulDa/BE)
+
 <img width="4068" height="1697" alt="image" src="https://github.com/user-attachments/assets/e32f0223-da7a-475d-99bb-f77fe5a64405" />
 
 ## 팀원
